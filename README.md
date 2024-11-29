@@ -12,7 +12,9 @@ This repository contains facial classification models developed for predicting d
 
 ## Dataset
 
-- **UTKFace dataset**: Contains 20,000+ images annotated for age, gender, and ethnicity.
+We used the **UTKFace dataset**, a large-scale dataset containing over 20,000 images annotated for age, gender, and ethnicity.
+
+- Dataset link: [Age, Gender, and Ethnicity Face Data (Kaggle)](https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-face-data-csv/data)
 - Diverse subjects ranging from 0 to 116 years across four ethnicities.
 
 ## Tech Stack
